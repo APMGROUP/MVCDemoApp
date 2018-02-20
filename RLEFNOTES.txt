@@ -1,0 +1,10 @@
+CRUD Operation With ASP.NET Core MVC Web App Using ADO.NET
+working example 1/22/2018 Richard
+iis - enable certain features ..https://i.stack.imgur.com/Tgf3W.png
+
+http://www.c-sharpcorner.com/article/crud-operation-with-asp-net-core-mvc-web-app-using-ado-net/ 
+install wpi
+https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/visual-studio-web-deployment/deploying-to-iis
+https://forums.asp.net/t/2034572.aspx?How+to+deploy+a+web+application+from+Visual+Studio+to+IIS+
+https://msdn.microsoft.com/en-us/library/dd394698(v=vs.110).aspx#deployment_scenarios
+http://blog.iweb.com/en/2011/01/how-to-setup-a-basic-website-in-iis-for-the-beginner/6508.html
